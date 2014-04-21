@@ -1,0 +1,55 @@
+
+h1 {
+   font-family:Arial,sans-serif;
+   font-size:7em;
+   font-weight:normal;
+   color: #FF6600;
+   vertical-align:middle;
+   }
+h2 {
+   color: #CC0000;
+   font-size:4em;
+   }
+p1 {
+   color: #000000;
+   font-size:2em;
+   }
+.middle { 
+   vertical-align:middle;
+   text-align:center;
+   background-color:#A6A6A6; 
+   }
+.middle-blanc {
+   vertical-align:middle;
+   text-align:justify;
+   background-color:#C1CDC1;
+   width: 500px;
+   height: 100px;
+   margin-right:auto;
+   margin-left:auto;
+   margin-top:50px;   
+   }
+.middle-img { 
+   vertical-align:middle;
+   text-align:center; 
+   }
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
